@@ -1,0 +1,5 @@
+export const TYPE_OF_TIMER = {
+  ONLY_TIME: "ONLY_TIME",
+  ONLY_DATE: "ONLY_DATE",
+  DATE_AND_TIME: "DATE_AND_TIME",
+};
