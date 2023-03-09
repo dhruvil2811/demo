@@ -9,7 +9,7 @@ function OpenAi() {
     ans.value = "Loading...";
 
     const configuration = new Configuration({
-      apiKey: "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",
+      apiKey: "YOUR_API_kEY",
     });
 
     const openai = new OpenAIApi(configuration);
