@@ -6,7 +6,7 @@ function Dashboard() {
   return (
     <>
       <Header />
-      <OpenAi />
+      {/* <OpenAi /> */}
     </>
   );
 }
